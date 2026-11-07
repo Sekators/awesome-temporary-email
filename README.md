@@ -38,8 +38,14 @@ This is a curated reference of notable temporary email services as of 2025. Serv
    - Link: https://10minutemail.com
 
 5. **EmailOnDeck** - Fast, no-signup required, friendly for quick signups.
+
    - Features: Fast · No sign-up
    - Link: https://emailondeck.com
+
+6. **GhosterMail** - Mailboxes that don't expire, with sending, a REST API and an MCP server for AI agents.
+
+   - Features: No expiry · Sending · API · MCP server · Up to 60 mailboxes at once
+   - Link: https://ghostermail.com
 
 ## Privacy Scorecards
 
